@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabirAIE | Sabir Ansari | Software Engineer | Data Scientist | Full Stack Web Developer | Mentor | Social Activist
-- 👀 My key Weapons [Python, PHP, NodeJs, ReactJs, JQuery, JavaScript, MongoDB, MySQL, HTML, CSS]
+- 👀 My key skills [Python, PHP, NodeJs, ReactJs, JQuery, JavaScript, MongoDB, MySQL]
 - 🌱 I am Technology enthusiastic; Currently trying to learn Android Develoment and Java
 - 💞️ I’m looking to collaborate on Creation of Artificially Intelligent Softwares and Massive Data based Platforms
 - A Startup AI NEXT ENGINEERING- http://ainextengineering.com
