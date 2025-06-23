@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabirAIE | Sabir Ansari | Software Engineer | Data Scientist | Full Stack Web Developer | Mentor | Social Activist
 - 👀 My key skills [Python, PHP, NodeJs, ReactJs, MongoDB, MySQL]
-- 🌱 I am Technology enthusiastic; currently working across AI/ML, AI Agents, LLM, RAG, gRAG, MCP and Multi Agentic Software Systems.
+- 🌱 I am Technology enthusiastic; currently working across AI/ML, AI Agents, LLM, RAG, gRAG, MCP and Multi Agent Software Systems.
 - 💞️ I’m looking to collaborate on Creation of Artificially Intelligent Softwares and Massive Data based Platforms
 - A Startup AI NEXT ENGINEERING- http://ainextengineering.com
 - 📫 How to reach me email- sbransari21@gmail.com | WhatsApp- +91-8340781564 | Telegram- +91-8340781564
